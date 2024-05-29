@@ -1,0 +1,268 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: "Poetsen One", sans-serif;
+}
+
+.h1p {
+  color: #ff5757;
+  background-color: gold;
+  text-align: center;
+}
+
+.body1 {
+  background-image: url(Countries.png);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.Ukrain {
+  background-color: #e1ff00;
+  width: 150px;
+  margin: 5px;
+  padding: 10px;
+  border: 5px solid #0055ff;
+  color: black;
+}
+
+.Ukrain:hover {
+  cursor: pointer;
+  background-color: #0055ff;
+  border: 5px solid #e1ff00;
+  color: white;
+  transition: 0.4s;
+  width: 200px;
+}
+
+.a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.a {
+  color: white;
+  text-decoration: none;
+}
+
+.ul {
+  font-size: 25px;
+  font-weight: 700;
+  list-style-type: none;
+}
+
+.lu {
+ list-style-type: square;
+ background: #f1ff33;
+ padding: 15px;
+}
+
+.ulli {
+ background: #3396ff;
+ padding: 5px;
+ margin: 5px 0 0 35px;
+}
+
+.Uckh1 {
+  color: #33c2ff;
+  background-color: #eeff00;
+  text-align: center;
+}
+
+.Uckp {
+  color: #eeff00;
+  background-color: #33c2ff;
+  text-align: justify;
+  padding: 20px;
+}
+
+.Uckbody {
+  background-image: url(Uckraine-Kyiiv.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.UckrainFlag {
+  width: 400px;
+  height: 250px;
+}
+
+
+.Back {
+  background-color: #fd80ff;
+  width: 150px;
+  margin: 5px;
+  padding: 10px;
+  border: 5px solid #87f88e;
+  color: black;
+}
+
+.Back:hover {
+  cursor: pointer;
+  background-color: #87f88e;
+  border: 5px solid #fd80ff;
+  color: black;
+  transition: 0.4s;
+  width: 200px;
+}
+
+.b {
+  color: black;
+  text-decoration: none;
+}
+
+.b:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.Finland {
+  background-color: #2b00ff;
+  width: 150px;
+  margin: 5px;
+  padding: 10px;
+  border: 5px solid #ffffff;
+  color: black;
+}
+
+.Finland:hover {
+  cursor: pointer;
+  background-color: #ffffff;
+  border: 5px solid #2b00ff;
+  color: black;
+  transition: 0.4s;
+  width: 200px;
+}
+
+.Finlandbody {
+  background-image: url(finlandia.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.Finlandh1 {
+  color: #2b00ff;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+.Finlandp {
+  color: #ffffff;
+  background-color: #2b00ff;
+  text-align: justify;
+  padding: 20px;
+}
+
+.ullifin {
+  background: #2b00ff;
+   padding: 5px;
+   margin: 5px 0 0 35px;
+}
+
+.lufin {
+  list-style-type: square;
+   background: #ffffff;
+   padding: 15px;
+}
+
+.Spain {
+  background-color: #ffd500;
+  width: 150px;
+  margin: 5px;
+  padding: 10px;
+  border: 5px solid #ff7300;
+  color: black;
+}
+
+.Spain:hover {
+  cursor: pointer;
+  background-color: #ff7300;
+  border: 5px solid #ffd500;
+  color: black;
+  transition: 0.4s;
+  width: 200px;
+}
+
+.Spainbody {
+  background-image: url(Spain.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.Spainh1 {
+  color: #ffd500;
+  background-color: #ff7300;
+  text-align: center;
+}
+
+.Spainp {
+  color: #ff7300;
+  background-color: #ffd500;
+  text-align: justify;
+  padding: 20px;
+}
+
+.ulliSpain {
+  background: #ffd500;
+   padding: 5px;
+   margin: 5px 0 0 35px;
+}
+
+.luSpain {
+  list-style-type: square;
+   background: #ff7300;
+   padding: 15px;
+}
+
+.Italy {
+  background-color: #ffffff;
+  width: 150px;
+  margin: 5px;
+  padding: 10px;
+  border-top: 5px solid #ff4747;
+  border-left: 5px solid #ff4747;
+  border-bottom: 5px solid #0fe000;
+  border-right: 5px solid #0fe000;
+  color: black;
+}
+
+.Italy:hover {
+  cursor: pointer;
+    background-color: #ffffff;
+    border-top: 5px solid #0fe000;
+  border-left: 5px solid #0fe000;
+  border-bottom: 5px solid #ff4747;
+  border-right: 5px solid #ff4747;
+    color: black;
+    transition: 0.4s;
+    width: 200px;
+}
+
+.Italybody {
+  background-image: url(Italy.webp);
+  background-size: cover;
+  background-attachment: fixed;
+}
+.Italyh1 {
+  color: #0fe000;
+  background-color: #ff4747;
+  text-align: center;
+}
+
+.Italyp {
+  color: #ff4747;
+  background-color: #0fe000;
+  text-align: justify;
+  padding: 20px;
+}
+
+.Italyp2 {
+  color: #0fe000;
+  background-color: #ffffff;
+  text-align: justify;
+  padding: 20px;
+}
+
+.videos {
+  margin-left: 200px;
+}
+
